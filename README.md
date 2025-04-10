@@ -15,29 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Tuğçe ✨</h1>
-<h3 align="center">I'm a Mobile Developer</h3>
+<h3 align="center">I'm a Frontend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<p align="left">
 
-- 🌱 I’m currently learning **Dart and Flutter**.
-- 💬 Ask me about Dart and Flutter.
+- 🌱 I’m currently learning **JavaScript and React**.
+- 💬 Ask me about HTML5, CSS3 and Bootstrap.
 - 📫 How to reach me: kahyatugce@outlook.com
+- 📁 Portfolio Web Site Project: [Portfolio Web Site](https://github.com/kahyatugce/the-portfolio)
 - 📁 Tobeto Mobile Application Development Training Project Product: [Tobeto Mobile App](https://github.com/kahyatugce/tobetomobileapp)
-- 📁 Oyun ve Uygulama Akademisi 2023 Bootcamp Project: [F84 Team Project](https://github.com/kahyatugce/socapp84)
-
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tugce-kahya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugce-kahya" height="30" width="40" /></a>
-<a href="https://medium.com/@kahya_tugce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kahya_tugce" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tugce-kahya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugce-kahya" height="48" width="48" /></a>
+<a href="https://medium.com/@kahya_tugce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kahya_tugce" height="48" width="48" /></a>
+<a href="mailto:kahyatugce@outlook.com" target="blank">
+ <img  align="center"  src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2" height="48" width="48"  />
+</a>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> </p>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/></a>
+<br><br>
+
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahyatugce&show_icons=true&theme=dark&locale=en&layout=compact" alt="kahyatugce" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahyatugce&show_icons=true&theme=dark&locale=en" alt="kahyatugce" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kahyatugce&theme=dark" alt="kahyatugce" /></p>
